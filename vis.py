@@ -101,7 +101,7 @@ def plot_show():
     export_png(data, filename='DataVis.png')
     export_png(mean, filename='MEAN.png')
     export_png(mx, filename='MAX.png')
-    export_png(mn, filename='MiN.png')
+    export_png(mn, filename='MIN.png')
     show(f)
 
 
